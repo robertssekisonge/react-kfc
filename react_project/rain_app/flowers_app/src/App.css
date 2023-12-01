@@ -1,0 +1,123 @@
+/* app.css */
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(58, 63, 62)
+    
+  }
+  /* App.css */
+
+/* Set up a background image */
+.app {
+    
+    background-size: cover;
+    background-position: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    text-align: center;
+    border-style: inset;
+    border-color: #327d80;
+    background-color: rgb(17, 66, 66);
+  }
+  
+  
+  /* Add more styles for other elements as needed */
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #06187e;
+    font-size: 70px;
+  }
+  
+  p {
+    color: #555;
+  }
+  login{font-size: 100px;
+
+  }
+
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  h2 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  /* Cart */
+  .cart-item {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .cart-item h3 {
+    margin: 0;
+    color: #333;
+  }
+  
+  .cart-item p {
+    margin: 0;
+    color: #888;
+  }
+  /* App.css */
+
+/* Increase the size of the dish images */
+.dish-image {
+    width: 655px;
+    height: 500px;
+  }
+  
+  /* Decrease the size of the dish images */
+  .dish-image.small {
+    width: 60px;
+    height: 50px;
+  }
+  
+  /* Additional styling for the app */
+  .app {
+    /* Your styles for the app container */
+
+  }
+  
+  /* Add more styles for other elements as needed */
+
+
+
+
+
+
+
